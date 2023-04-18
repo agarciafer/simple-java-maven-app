@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello World-version-1-15/04/2023!";
+    private final String message = "Hello World-version-2-18/04/2023!";
 
     public App() {}
 
