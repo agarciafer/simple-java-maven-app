@@ -34,9 +34,9 @@ public class AppTest
     {
         App.main(null);
         try {
-            assertEquals("Hello World-v10!" + System.getProperty("line.separator"), outContent.toString());
+            assertEquals("Hello World-v11!" + System.getProperty("line.separator"), outContent.toString());
         } catch (AssertionError e) {
-            fail("\"message\" is not \"Hello World-v10!\"");
+            fail("\"message\" is not \"Hello World-v11!\"");
         }
     }
 
