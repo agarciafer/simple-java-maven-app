@@ -36,7 +36,7 @@ public class AppTest
         try {
             assertEquals("Hello World-v2-Jueves12!" + System.getProperty("line.separator"), outContent.toString());
         } catch (AssertionError e) {
-            fail("\"message\" is not \"Hello World-v2-Jueves12!\"");
+            fail("\"message\" is not \"Hello World-v3-Jueves12!\"");
         }
     }
 
